@@ -9,3 +9,6 @@ function sayName(){
 }
 
 sayName();
+function Isabove18(){
+    return age >= 18;
+}
