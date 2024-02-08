@@ -12,3 +12,11 @@ sayName();
 function Isabove18(){
     return age >= 18;
 }
+
+function NewFunction(){
+    console.log('A new Function');
+}
+
+function secondunderstand(){
+    console.log('secondunderstand');
+}
