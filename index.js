@@ -20,3 +20,6 @@ function NewFunction(){
 function secondunderstand(){
     console.log('secondunderstand');
 }
+function thirdfunction(){
+    console.log('A new optimization');
+}
