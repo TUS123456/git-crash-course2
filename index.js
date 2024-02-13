@@ -24,3 +24,7 @@ function secondunderstand(){
 function NewBranchCreated(){
     console.log('New Branch Created');
 }
+
+function NewCommit(){
+    console.log('New Commit')
+}
