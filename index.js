@@ -20,3 +20,7 @@ function NewFunction(){
 function secondunderstand(){
     console.log('secondunderstand');
 }
+
+function NewBranchCreated(){
+    console.log('New Branch Created');
+}
